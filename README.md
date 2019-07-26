@@ -1,4 +1,4 @@
-Virtual Tourist Final
+# Virtual Tourist Final
 Project Description:
 This project is an IOS applicaion for Udacity Nanodegree. An upgraded version of Vertual Tourist ti fits The Final Project it Includes:
 
@@ -17,7 +17,7 @@ Once the images have all been downloaded, the app should enable the New Collecti
 
 Users are able to remove photos from an album by tapping them. Tapping the back button will return the user to the Map view.
 
-Building instructions :
+# Building instructions :
 you will need to daownload xcode which requiers mac OS
 Xcode 10.1 and Swift 4.2.1.
 the deployment target is ios 12.3
