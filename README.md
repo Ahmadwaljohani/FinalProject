@@ -21,4 +21,4 @@ Users are able to remove photos from an album by tapping them. Tapping the back 
 you will need to daownload xcode which requiers mac OS
 Xcode 10.1 and Swift 4.2.1.
 the deployment target is ios 12.3
-the app can build on both iphone and ipad
+the app can build on both iphone and ipad.
